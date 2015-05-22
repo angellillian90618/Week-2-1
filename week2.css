@@ -1,0 +1,75 @@
+*{
+    font-family: 'Lily Script One', cursive;
+    color:white;
+}
+
+#about {
+    height: 700px;
+    background-image: linear-gradient(#B3E5FC,#26C6DA);
+    background-size: cover;
+}
+
+.first {
+    margin-top: 6em;    
+}
+
+.secound {
+    font-size: 2.5em;
+    margin-top: 6em;
+}
+
+.third {
+     margin-top: 7em;
+    
+}
+
+
+h5 {
+    position: absolute;
+    margin-left: 1.5em;
+}
+
+p {
+    margin-top: 1em;
+}
+
+.glyphicon {
+    margin-top: 1.5em;
+    font-size: 2em;
+}
+
+#works {
+    height: 100px;
+    background-image: 
+    linear-gradient(#00BCD4,#00BFA5);
+}
+
+#contact {
+    height: 600px;
+    background-image: 
+    linear-gradient(#00BFA5,#FFF176);
+}
+
+footer {
+    width: 100%;
+    Padding: 15px;
+    background-color: black;
+}
+
+.navbar {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    border-bottom: thick solid #fff;
+    color: white;
+}
